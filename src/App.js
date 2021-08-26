@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   console.log("inside app.js")
+
   return (
     <div className="App">
       <header className="App-header">
@@ -10,6 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <span>abcdgit </span>
         <a
           className="App-link"
           href="https://reactjs.org"
